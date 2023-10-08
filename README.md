@@ -1,8 +1,24 @@
-# React + Vite
+# Simple Todo React App
+This is a sample project that demonstrates how to use React to build a simple Todo application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+To install the project, first clone the repository: 
+```
+git clone https://github.com/username/my-project.git
+```
 
-Currently, two official plugins are available:
+Then, navigate to the project directory and install the dependencies:
+```
+cd my-project
+npm i
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+To start the development server, run the following command:
+```
+npm start dev
+```
+
+This will start the development server and open the application in your default web browser.
+
+- [React](https://reactjs.org/)
