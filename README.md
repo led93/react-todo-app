@@ -9,7 +9,7 @@ git clone https://github.com/led93/react-todo-app.git
 
 Then, navigate to the project directory and install the dependencies:
 ```
-cd my-project
+cd react-todo-app
 npm i
 ```
 
