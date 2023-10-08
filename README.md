@@ -4,7 +4,7 @@ This is a sample project that demonstrates how to use React to build a simple To
 ## Installation
 To install the project, first clone the repository: 
 ```
-git clone https://github.com/username/my-project.git
+git clone https://github.com/led93/react-todo-app.git
 ```
 
 Then, navigate to the project directory and install the dependencies:
